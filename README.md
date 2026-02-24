@@ -2,7 +2,7 @@
 - Real name is Anastasia, if you want to know
 - I love music and games)
 - You can refer to me as he or she, I don't mind
-- I speak Russian and English freely;)
+- I speak Russian and English fluently, currently learning other languages;)
 
 Right now I'm studying such languages as: 
                                          Python
