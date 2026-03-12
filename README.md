@@ -5,10 +5,11 @@
 - I speak Russian and English fluently, currently learning other languages;)
 
 Right now I'm studying such languages as: 
-                                         Python
+                                         - Python
                                          - JavaScript
                                          - Html
                                          - C#
+                                         - Unity (prefer 2022)
                                          (pretty much, huh)
 
 So there might be lots of projects here (I hope so too)
